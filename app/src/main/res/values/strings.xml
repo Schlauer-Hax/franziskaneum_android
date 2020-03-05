@@ -67,7 +67,7 @@
     <string name="transition_toolbar">de.franziskaneum:toolbar</string>
     <string name="news_url">http://www.franziskaneum.de/wordpress/category/aktuelles/</string>
     <string name="vplan_url">http://www.franziskaneum.de/wordpress/schule/planung/vertretungsplan/</string>
-    <string name="teacher_url">http://www.franziskaneum.de/wordpress/wer-wir-sind/lehrerliste/</string>
+    <string name="teacher_url">https://www.franziskaneum.de/wordpress/wer-wir-sind/lehrer-im-schuljahr-201718/</string>
     <string name="welcome">Willkommen</string>
     <string name="enter_school_class">Klasse angeben</string>
     <string name="enter_shortcut">Kürzel eintragen</string>
